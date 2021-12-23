@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393724355140",
+    "project_id": "college-messenger-app",
+    "storage_bucket": "college-messenger-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393724355140:android:ff5a90de73abe497c99211",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393724355140-mcsh4cpfucen3n26r4l9a6m41au3eafc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoaZIQQDmXJDBb7CEIp33Bk_wM-34XGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393724355140-mcsh4cpfucen3n26r4l9a6m41au3eafc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
